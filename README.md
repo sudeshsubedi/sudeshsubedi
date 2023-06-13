@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a chess engine called Mateinfour(name is not final)<br>🤝 I’m looking for help with the name of the engine<br>🌱 I’m currently learning Rust<br>💬 Ask me about anything
+🔭 I’m currently learning about operating system development.<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
